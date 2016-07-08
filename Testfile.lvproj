@@ -13,6 +13,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="testerfile.vi" Type="VI" URL="../testerfile.vi"/>
 		<Item Name="Test_2.vi" Type="VI" URL="../Test_2.vi"/>
+		<Item Name="test_3.vi" Type="VI" URL="../../../Testing/test_3.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
